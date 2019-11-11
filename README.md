@@ -1,5 +1,11 @@
 # Alexa Controlling 8 Channel Relay With Node MCU v3
 
+Own Notes:
+https://medium.com/@loginov_rocks/quick-start-with-nodemcu-v3-esp8266-arduino-ecosystem-and-platformio-ide-b8415bf9a038
+https://www.aliexpress.com/item/32647690484.html?spm=a2g0s.9042311.0.0.575a4c4dq9WF2u
+
+
+
 Before Using this code, Keep in Mind  :
 
  * Make Sure Arduino is Install On your System, and ESP8266 driver is also install.
